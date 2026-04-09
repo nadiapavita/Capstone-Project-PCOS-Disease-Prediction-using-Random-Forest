@@ -42,4 +42,5 @@ Dataset → Data Preprocessing → SMOTEENN → Random Forest Model → Evaluati
 ## Author
 
 Nadia Pavita Amelia
+
 LinkedIn: [www.linkedin.com/in/nadiapavitaamelia](https://www.linkedin.com/in/nadiapavitaamelia/)
