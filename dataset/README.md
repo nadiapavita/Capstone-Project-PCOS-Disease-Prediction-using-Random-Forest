@@ -10,4 +10,5 @@
 - PCOS_Diagnosis (Binary: 0/1)
 
 ### Dataset Access 
+[[Click here]](https://github.com/nadiapavita/Capstone-Project-PCOS-Disease-Prediction-using-Random-Forest/blob/main/dataset/pcos_dataset.csv)
 [[KAGGLE LINK]](https://www.kaggle.com/datasets/samikshadalvi/pcos-diagnosis-dataset)
