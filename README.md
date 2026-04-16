@@ -3,7 +3,7 @@
 
 **Live Demo:**  
 Try the interactive PCOS prediction system here:  
-[https://your-streamlit-link](https://pcos-prediction-kelompok19.streamlit.app/)
+[https://Click- here-streamlit-link](https://pcos-prediction-kelompok19.streamlit.app/)
 
 This project builds a machine learning model to predict the likelihood of **Polycystic Ovary Syndrome (PCOS)** based on patient health indicators. The model uses the **Random Forest algorithm** and applies the **SMOTEENN resampling technique** to address class imbalance in the dataset.
 
