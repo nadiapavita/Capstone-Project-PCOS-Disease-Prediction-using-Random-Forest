@@ -39,8 +39,8 @@ Dataset → Data Preprocessing → SMOTEENN → Random Forest Model → Evaluati
 
 ---
 
-## Author
+## Team Member
 
-Nadia Pavita Amelia
+Rezki Yulia Damayanti, Nadia Pavita Amelia, Dhiaurrahman Asytar Aldea, Muhammad Kayana Rafadika.
 
 LinkedIn: [www.linkedin.com/in/nadiapavitaamelia](https://www.linkedin.com/in/nadiapavitaamelia/)
